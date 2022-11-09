@@ -1,6 +1,6 @@
 # Launch/Record from MIDI Keyboard in Ableton Live Session View
 
-Ableton Live 11 nativelly only allows users to map MIDI Controllers to launch specific tracks and scenes, which makes recording large projects in Session View cumbersome as it essentially requires you to constantly swap between your MIDI controller to play and computer keyboard to navigate. This MidiPipe allows you to arm selected tracks, launch/record hovered clips, and delete, all directly from your MIDI keyboard in Ableton Live's Session View for MacOS. I've configured it to work with my Arturia Keylab Essential 49, but it can be modified to work with any MIDI controller (instructions for doing so can be found below).
+Ableton Live 11 only natively allows users to map MIDI Controllers to launch specific tracks and scenes, which makes recording large projects in Session View cumbersome as it essentially requires you to constantly swap between your MIDI controller to play and computer keyboard to navigate. This MidiPipe allows you to arm selected tracks, launch/record hovered clips, and delete, all directly from your MIDI keyboard in Ableton Live's Session View for MacOS. I've configured it to work with my Arturia Keylab Essential 49, but it can be modified to work with any MIDI controller (instructions for doing so can be found below).
 
 ## Installation
 
